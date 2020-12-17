@@ -1,0 +1,20 @@
+background
+Person
+Car
+Bicycle
+Bus
+Motorbike
+Train
+Aeroplane
+Chair
+Bottle
+Dining Table
+Potted Plant
+TV/Monitor
+Sofa
+Bird
+Cat
+Cow
+Dog
+Horse
+Sheep
