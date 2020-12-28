@@ -45,6 +45,9 @@ Anaconda, Python3.6, Tensorflow1.14, OpenCV, C++, Rex (AI Computing Embedded Com
 - 크게 Semantic Branch, Detail Branch, Depth Branch로 나뉘어 있음.
 - RGB 이미지의 Feature와 Depth map 이미지의 Feature를 Element-Wise Add로 융합 
 - Detail Branch와 Depth Branch 융합 결과를 최종적으로 Semantic Branch의 결과와 융합
+- Mean IoU 값이 증가하지는 않음.
+- **멀리** 있는 물체나, **그림자 안에 있는 물체** 에 대해서는 Semantic Sementaion이
+   조금 더 **뚜렷하게 됨**
 
 
 
