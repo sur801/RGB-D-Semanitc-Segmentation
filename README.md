@@ -22,12 +22,13 @@ Anaconda, Python3.6, Tensorflow1.14, OpenCV, C++, Rex (AI Computing Embedded Com
   - RGB 이미지와 Depth map을 융합한 결과를 이용해 Semantic Segmentation.
 
 
+</br>
 
 ## BiSeNet v2 모델 구조
 
  ![image](https://user-images.githubusercontent.com/5088280/103218089-747bf900-495d-11eb-90cc-e241424979dc.png)
 
-<img src="https://user-images.githubusercontent.com/5088280/103217958-3252b780-495d-11eb-99ca-fbf9ed0a08a2.png" alt="image" style="zoom:30%;" />
+<img src="https://user-images.githubusercontent.com/5088280/103217958-3252b780-495d-11eb-99ca-fbf9ed0a08a2.png" alt="image" width="500" />
 
 - 크게 Semantic Branch와 Detail Branch로 나뉘어 있음.
 - 각 Branch의 결과물을 융합한 값을 이용함. 
@@ -35,10 +36,11 @@ Anaconda, Python3.6, Tensorflow1.14, OpenCV, C++, Rex (AI Computing Embedded Com
 - Mean IoU : 약 70%
 
 
+</br>
 
 ## 변형한 BiSeNet v2 모델 구조
 
-<img src="https://user-images.githubusercontent.com/5088280/103218009-4991a500-495d-11eb-8483-49fb6c58ffcb.png" alt="image" style="zoom:30%;" />
+<img src="https://user-images.githubusercontent.com/5088280/103218009-4991a500-495d-11eb-8483-49fb6c58ffcb.png" alt="image" width="500" />
 
 
 
@@ -52,12 +54,13 @@ Anaconda, Python3.6, Tensorflow1.14, OpenCV, C++, Rex (AI Computing Embedded Com
 
 
 
+</br>
 
 ## 기존 BiSeNet v2와, 변형한 BiSeNet v2 모델 비교 
 
-<img src="https://user-images.githubusercontent.com/5088280/103218973-cc1b6400-495f-11eb-8277-c98d81737fbc.png" alt="image" style="zoom: 30%;" />
+<img src="https://user-images.githubusercontent.com/5088280/103218973-cc1b6400-495f-11eb-8277-c98d81737fbc.png" alt="image" width="400" />
 
 
-기존 BiSeNet v2의 결과 												변형한 BiSeNet v2의 결과
+기존 BiSeNet v2의 결과 		   				/ 				   		변형한 BiSeNet v2의 결과
 
-<img src="https://user-images.githubusercontent.com/5088280/103218990-d6d5f900-495f-11eb-84a6-f755f01b14d9.png" alt="image" style="zoom: 30%;" /><img src="https://user-images.githubusercontent.com/5088280/103219016-ece3b980-495f-11eb-9a7c-a614948bf59f.png" alt="image" style="zoom: 30%;" />
+<img src="https://user-images.githubusercontent.com/5088280/103218990-d6d5f900-495f-11eb-84a6-f755f01b14d9.png" alt="image" width="400" /><img src="https://user-images.githubusercontent.com/5088280/103219016-ece3b980-495f-11eb-9a7c-a614948bf59f.png" alt="image" width="400" />
