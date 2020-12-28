@@ -26,7 +26,7 @@ Anaconda, Python3.6, Tensorflow1.14, OpenCV, C++, Rex (AI Computing Embedded Com
 
 ## BiSeNet v2 모델 구조
 
- ![image](https://user-images.githubusercontent.com/5088280/103218089-747bf900-495d-11eb-90cc-e241424979dc.png)
+<img src="https://user-images.githubusercontent.com/5088280/103218089-747bf900-495d-11eb-90cc-e241424979dc.png" alt="image" width="700" />
 
 <img src="https://user-images.githubusercontent.com/5088280/103217958-3252b780-495d-11eb-99ca-fbf9ed0a08a2.png" alt="image" width="500" />
 
